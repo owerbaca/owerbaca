@@ -28,6 +28,6 @@ src= "https://i.pinimg.com/originals/a7/0e/fa/a70efaa9c83cf80d8073a416292434e4.g
  	<a href ="mailto:owerbt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ower-de-jesus-baca-torrealba-404954127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![Snake animation](https://github.com/owerbaca/owerbaca/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/owerbaca/owerbaca/blob/output/github-contribution-grid-snake.svg)
 
 </div>
